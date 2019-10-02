@@ -17,4 +17,6 @@ nav {
 
 nav ol {
   list-style-type: none;
+  color: #8f2440;
+  text-decoration: none
 }
