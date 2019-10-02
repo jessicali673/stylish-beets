@@ -20,13 +20,16 @@ img {
 nav {
   font-family: "PT Sans", sans-serif;
   font-weight: normal;
-  color: #8f2440;
 }
 
 nav ol {
   list-style-type: none;
-  color: #8f2440;
   text-decoration: none
+}
+
+a:link {
+  color: #8f2440;
+  text-decoration: none;
 }
 
 .figcap > p {
