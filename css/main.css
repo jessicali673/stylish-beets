@@ -5,6 +5,11 @@ html {
   line-height: 1.5;
 }
 
+h1 {
+  font-size: 1.5rem;
+  color: #3f1622;
+}
+
 h1, h2 {
   font-family: "PT Sans", sans-serif;
 }
@@ -56,7 +61,7 @@ strong {
 }
 
 blockquote > footer {
-  font-size: 0.8rem;
+  font-size: .8rem;
 }
 
 .common {
@@ -73,4 +78,9 @@ dt {
 
 aside > ul {
   list-style: circle;
+}
+
+a {
+  text-decoration: none;
+  color: #8f2440;
 }
