@@ -49,3 +49,15 @@ blockquote > footer {
 .common {
   list-style-type:lower-greek;
 }
+
+.nutrition {
+  list-style-type: none;
+}
+
+.nutrition > dt {
+  font-style: oblique;
+}
+
+aside > ul {
+  list-style: circle;
+}
