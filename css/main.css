@@ -23,6 +23,7 @@ nav {
 }
 
 nav ol {
+  color: #8f2440;
   list-style-type: none;
   text-decoration: none;
 }
