@@ -42,6 +42,10 @@ blockquote {
   font-style: italic;
 }
 
+strong {
+  font-weight: none;
+}
+
 blockquote > footer {
   font-size: 0.8rem;
 }
