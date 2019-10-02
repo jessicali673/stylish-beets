@@ -1,6 +1,7 @@
 html{
   font-family: "PT Sans", sans-serif;
   background-color: #c9b5ab;
+  font-size: 1.125rem;
   line-height: 1.5;
 }
 
@@ -9,7 +10,7 @@ img {
 }
 
 nav {
-  font-size: 1.125rem;
+  font-size: 0.8rem;
   font-family: "PT Sans", sans-serif;
   font-weight: normal;
   color: #8f2440;
@@ -24,4 +25,8 @@ nav ol {
 .figcap > p {
   font-style: italic;
   font-family: font-family: "PT Serif", serif;
+}
+
+#bold {
+  font-style: oblique;
 }
