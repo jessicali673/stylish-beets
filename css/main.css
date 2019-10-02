@@ -34,7 +34,7 @@ nav ol {
 }
 
 #bold {
-  font-style: oblique;
+  font-weight: bold;
 }
 
 blockquote {
@@ -54,8 +54,8 @@ blockquote > footer {
   list-style-type: none;
 }
 
-.nutrition > dt {
-  font-style: oblique;
+dt {
+  font-weight: bold;
 }
 
 aside > ul {
