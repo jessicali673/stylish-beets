@@ -1,21 +1,13 @@
 html {
   font-family: "PT Serif", serif;
   background-color: #c9b5ab;
-  font-size: .8rem;
   line-height: 1.5;
   color: #222;
 }
 
-h1 {
-  font-size: 1.5rem;
-  color: #3f1622;
-}
-
 h1, h2 {
   font-family: "PT Sans", sans-serif;
-}
-
-h2 {
+  font-size: 1.5rem;
   color: #3f1622;
 }
 
@@ -29,6 +21,7 @@ nav {
 }
 
 nav ol {
+  font-size: 1.125rem;
   color: #8f2440;
   list-style-type: none;
   text-decoration: none;
@@ -53,7 +46,6 @@ a:hover {
 }
 
 blockquote {
-  font-size: 1.125rem;
   font-style: italic;
 }
 
